@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working as ** Front-end Developer Intern**
+- 🔭 I’m currently working as **Front-end Developer Intern**
 
 - 🌱 I’m currently learning **Backend , Problem Solving.**
 
