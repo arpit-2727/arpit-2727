@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Pandey</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/tg4RB3qpr6LLYr4Z8">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/jMyYXQ68KDxUS9PH7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit-2727&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-2727" /> </p>
 
