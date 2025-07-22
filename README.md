@@ -16,7 +16,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://main--arpit-portfolio-site.netlify.app/)
 - 💬 Ask me about **C++, JavaScript, Data Structures, Tailwind CSS, ReactJS, MongoDB, NodeJS, ExpressJS, MySQL**
 - 📫 Reach me at **arpit1111k@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1-Fken5QjRLq15l0LxsvK4dkwz7fxbzJR/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1XNeNnLoTNIvioRxWJnI2DuQJ4arkkHI0/view?usp=sharing)
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
