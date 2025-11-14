@@ -1,110 +1,120 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]()
 
-<h1 align="center">Hi 👋, I'm Arpit Pandey</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins:wght@700&size=32&duration=3000&pause=800&color=BB7BFF&center=true&vCenter=true&width=850&lines=Hi+I'm+Arpit+Pandey!;Frontend+Developer+From+India;ReactJS+%7C+Tailwind+CSS+%7C+MERN+Developer;Passionate+Learner+%26+Problem+Solver" />
+</h1>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arpit-2727&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-2727" />
-</p>
-
-- 🔭 I’m currently working as a **Front-end Developer Intern**
-- 🌱 I’m currently learning **Backend Development and Problem Solving**
-- 👯 I’m looking to collaborate on **My Online Platform**
-- 🤝 I’m looking for help with **Backend Development**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://main--arpit-portfolio-site.netlify.app/)
-- 💬 Ask me about **C++, JavaScript, Data Structures, Tailwind CSS, ReactJS, MongoDB, NodeJS, ExpressJS, MySQL**
-- 📫 Reach me at **arpit1111k@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1XNeNnLoTNIvioRxWJnI2DuQJ4arkkHI0/view?usp=sharing)
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arpit-2727" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/arpit-27p" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/arpit_27p" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/arpit1111k" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/arpit1111k" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="330" alt="Coding Girl">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+---
+
+# 🌟 About Me  
+✨ Passionate **Frontend Developer** with growing skills in **MERN Stack** and strong problem-solving ability.  
+✨ Love building responsive and beautiful UIs with React & Tailwind CSS.  
+✨ Currently enhancing skills in **Backend Development & System Design**.
+
+---
+
+# 📌 Quick Info
+- 🔭 Currently working as a **Front-end Developer Intern**
+- 🌱 Learning **Backend Development (Node.js, Express, MongoDB)**
+- 👯 Open to collaborate on **My Online Platform**
+- 🤝 Looking for mentorship in **Backend Development**
+- 👨‍💻 Portfolio: **https://main--arpit-portfolio-site.netlify.app/**
+- 💬 Ask me about **C++, JavaScript, ReactJS, Tailwind, DSA, MERN**
+- 📄 Resume: **https://drive.google.com/file/d/1XNeNnLoTNIvioRxWJnI2DuQJ4arkkHI0/view?usp=sharing**
+- 📫 Email: **arpit1111k@gmail.com**
+
+---
+
+# 🎀 Soft Purple Gradient Card — Connect With Me
+
+<div align="center">
+  <div style="
+      background: linear-gradient(135deg, #f3e8ff, #e9d5ff, #d8b4fe);
+      padding: 25px;
+      width: 350px;
+      border-radius: 22px;
+      box-shadow: 0px 6px 18px rgba(121, 42, 198, 0.35);
+      border: 2px solid #d4b5ff;
+      backdrop-filter: blur(4px);
+      animation: float 3s ease-in-out infinite;
+  ">
+  
+  <h2 style="color:#7c3aed; font-weight:700; margin-bottom:14px;">💜 Connect With Me</h2>
+
+  <p>
+    <a href="https://linkedin.com/in/arpit-27p" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-CAA7FF?style=for-the-badge&logo=linkedin&logoColor=4b0082"/>
+    </a>
+
+   <a href="https://github.com/arpit-2727" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-E9D5FF?style=for-the-badge&logo=github&logoColor=4b0082"/>
+    </a>
+
+  <a href="mailto:arpit1111k@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D8B4FE?style=for-the-badge&logo=gmail&logoColor=4b0082"/>
+    </a>
+    <a href="https://instagram.com/mai_arpit_hoon" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-F3E8FF?style=for-the-badge&logo=instagram&logoColor=4b0082"/>
+    </a>
+  </p>
+
+  </div>
+</div>
+
+---
+
+# 🛠️ Tech Stack  
+
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40" />
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
+  <img src="https://img.shields.io/badge/HTML-ECDBFF?style=for-the-badge&logo=html5&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/CSS-D8B4FE?style=for-the-badge&logo=css3&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/JavaScript-C7A0FF?style=for-the-badge&logo=javascript&logoColor=purple"/>
+  <img src="https://img.shields.io/badge/React-BA8CFF?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-A374FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/NodeJS-C7A0FF?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-BA8CFF?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-A374FF?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-D8B4FE?style=for-the-badge&logo=mysql&logoColor=purple"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit-2727&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+---
+
+# 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arpit-2727&theme=dracula&margin-w=10" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpit-2727&show_icons=true&locale=en" alt="GitHub Stats" />
+---
+
+# 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit-2727&show_icons=true&layout=compact&theme=dracula" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpit-2727&show_icons=true&theme=dracula" />
+</p>
+
+---
+
+# 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpit-2727&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+</p>
+
+---
+
+### ⭐ If you like my profile, feel free to ⭐ my repositories!
