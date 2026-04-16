@@ -15,7 +15,7 @@
 ## 📌 Quick Info  
 - 🔭 Working as a **Front-end Developer Intern**  
 - 📚 Learning **MERN Stack & System Design**  
-- 🌐 Portfolio: **[https://main--arpit-portfolio-site.netlify.app](https://arpit-new-portfolio.vercel.app/)**  
+- 🌐 Portfolio: **[https://arpit-new-portfolio.vercel.app/](https://arpit-new-portfolio.vercel.app/)**  
 - 📄 Resume: [Click Here](https://drive.google.com/file/d/1izz_tPD-GIRHncgSQCP7iI6ls3bqKc0V/view?usp=sharing)  
 - 💬 Ask me about: C++, JavaScript, MERN, Tailwind, DSA  
 - 📫 Email: **arpit1111k@gmail.com**  
