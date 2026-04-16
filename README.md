@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ░░ ANIMATED HEADER ░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0533,60:7c3aed,100:f97316&height=280&section=header&text=ARPIT%20KUMAR&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=%E2%9A%A1%20Crafting%20Interfaces.%20Solving%20Problems.%20Levelling%20Up.&descSize=17&descAlignY=65&animation=fadeIn&stroke=f97316&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0533,60:7c3aed,100:f97316&height=280&section=header&text=ARPIT%20KUMAR%20PANDEY&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=%E2%9A%A1%20Crafting%20Interfaces.%20Solving%20Problems.%20Levelling%20Up.&descSize=17&descAlignY=65&animation=fadeIn&stroke=f97316&strokeWidth=2"/>
 
 <br/>
 
